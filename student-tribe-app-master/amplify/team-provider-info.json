@@ -1,0 +1,57 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-app-dev-113012-authRole",
+      "UnauthRoleArn": "arn:aws:iam::102273100634:role/amplify-app-dev-113012-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::102273100634:role/amplify-app-dev-113012-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-app-dev-113012-deployment",
+      "UnauthRoleName": "amplify-app-dev-113012-unauthRole",
+      "StackName": "amplify-app-dev-113012",
+      "StackId": "arn:aws:cloudformation:ap-south-1:102273100634:stack/amplify-app-dev-113012/9aa47c20-6d7b-11ee-8048-069170aa1078",
+      "AmplifyAppId": "d2l6y3476o84rq"
+    },
+    "categories": {
+      "auth": {
+        "app04b03aef04b03aef": {},
+        "app230fe861": {}
+      }
+    }
+  },
+  "gitdev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-app-gitdev-84545-authRole",
+      "UnauthRoleArn": "arn:aws:iam::102273100634:role/amplify-app-gitdev-84545-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::102273100634:role/amplify-app-gitdev-84545-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-app-gitdev-84545-deployment",
+      "UnauthRoleName": "amplify-app-gitdev-84545-unauthRole",
+      "StackName": "amplify-app-gitdev-84545",
+      "StackId": "arn:aws:cloudformation:ap-south-1:102273100634:stack/amplify-app-gitdev-84545/c8ac7dd0-fc68-11ee-b8e9-024f1611b729",
+      "AmplifyAppId": "d2l6y3476o84rq"
+    },
+    "categories": {
+      "auth": {
+        "app2360d6aa2360d6aa": {}
+      }
+    }
+  },
+  "gitqa": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-app-gitqa-90350-authRole",
+      "UnauthRoleArn": "arn:aws:iam::102273100634:role/amplify-app-gitqa-90350-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::102273100634:role/amplify-app-gitqa-90350-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-app-gitqa-90350-deployment",
+      "UnauthRoleName": "amplify-app-gitqa-90350-unauthRole",
+      "StackName": "amplify-app-gitqa-90350",
+      "StackId": "arn:aws:cloudformation:ap-south-1:102273100634:stack/amplify-app-gitqa-90350/4eed5161-fc6b-11ee-98ce-028313e97361",
+      "AmplifyAppId": "d2l6y3476o84rq"
+    },
+    "categories": {
+      "auth": {
+        "app04b03aef04b03aef": {}
+      }
+    }
+  }
+}
